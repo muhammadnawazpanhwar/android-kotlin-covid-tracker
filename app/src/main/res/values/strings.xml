@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+    <string name="lgm">LGM</string>
+    <string name="lgm_title">LetsGrowMore - LGM</string>
+    <string name="app_title">Covid Tracker</string>
+    <string name="tv">TextView</string>
+    <string name="active">Active</string>
+    <string name="confirm">Confirm</string>
+    <string name="migrated_other">Migrated other</string>
+    <string name="deceased">Deceased</string>
+    <string name="recovered">Recovered</string>
+    <string name="delta_confirmed">Delta Confirmed</string>
+    <string name="delta_recovered">Delta Recovered</string>
+    <string name="delta_deceased">Delta Deceased</string>
+</resources>
